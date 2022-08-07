@@ -4,10 +4,6 @@
 
 # **Advanced Node**
 
-[![alt text](./public/img/logo-course.jpeg "Link para o treinamento")](https://www.udemy.com/course/nodejs-avancado/?referralCode=AF51096F87A7A9A81C5C)
-
----
-
 ## [**Link para o curso completo**](https://www.udemy.com/course/nodejs-avancado/?referralCode=AF51096F87A7A9A81C5C)
 
 Essa API faz parte do treinamento do professor Rodrigo Manguinho (Mango) na Udemy.
